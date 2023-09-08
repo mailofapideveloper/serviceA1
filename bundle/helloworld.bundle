@@ -2,12 +2,12 @@
 <l7:Bundle xmlns:l7="http://ns.l7tech.com/2010/04/gateway-management">
 	<l7:References>
 	    <l7:Item>
-            <l7:Name>helloworld</l7:Name>
+            <l7:Name>teamA</l7:Name>
             <l7:Id>034c8ee98d5bbb2c42d9571308dffaa2</l7:Id>
             <l7:Type>FOLDER</l7:Type>
             <l7:Resource>
                 <l7:Folder folderId="0000000000000000ffffffffffffec76" id="034c8ee98d5bbb2c42d9571308dffaa2" version="0">
-                    <l7:Name>helloworld</l7:Name>
+                    <l7:Name>teamA</l7:Name>
                 </l7:Folder>
             </l7:Resource>
         </l7:Item>
